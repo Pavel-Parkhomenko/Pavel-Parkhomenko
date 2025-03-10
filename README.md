@@ -11,3 +11,9 @@ Millions of blocks somehow stand on top of each other without any structural int
 The programmer decided to borrow 1000 rubles from a friend, but for an even account he took 1024.
 
 Have a nice day! And it's not up for discussion 🙃
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,qt,cmake,html,js,linux,git,github" />
+  </a>
+</p>
