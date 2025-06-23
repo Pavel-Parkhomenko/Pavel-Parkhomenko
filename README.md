@@ -1,5 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Pavel-Parkhomenko}/count.svg)
 
+<img src="https://www.codewars.com/users/Author663/badges/large" />
+
 - Hi, I’m Pavel 👋
 - Want a joke? 
 
